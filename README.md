@@ -2,12 +2,12 @@
 
 <p align="center"> 
  <a href="https://twitter.com/chhinsras95" alt="sras's twitter">
-   <img src="https://img.shields.io/badge/-@iammukeshm-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+   <img src="https://img.shields.io/badge/-@chhinsras95-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
- <a href="https://github.com/iammukeshm" alt="sras's github">
+ <a href="https://github.com/chhinsras" alt="sras's github">
    <img src="https://img.shields.io/badge/-@chhinsras-%23181717?style=flat-square&logo=github" />
  </a>
- <a href="https://www.linkedin.com/in/iammukeshm" alt="mukesh's linkedin">
+ <a href="https://www.linkedin.com/in/chhin-sras-3924b5119" alt="sras's linkedin">
    <img src="https://img.shields.io/badge/-chhinsras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chhin-sras-3924b5119/" />
  </a>
 </p>
