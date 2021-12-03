@@ -22,7 +22,8 @@
 </p>
 
 
-> I’m a full stack developer specializing in building Web Applications. I'm working on Angular / Blazor for the front end and Asp.Net Core for the backend.
+> I’m a full stack developer specializing in building Web Applications. I'm working on Angular for the front end and Asp.Net Core for the backend. 
+> Plan: Learning Flutter
 
 #### 💻 Open Source Contributions
 
