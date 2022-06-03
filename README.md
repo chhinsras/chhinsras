@@ -22,14 +22,12 @@
 </p>
 
 
-> I’m a full stack developer specializing in building Web Applications. I'm working on Angular for the front end and Asp.Net Core for the backend. 
-> Plan: Learning Flutter
+> I’m a full stack developer specializing in building Web Applications. I'm working on Angular and Flutter for the front end and Asp.Net Core for the backend.
 
 #### 💻 Open Source Contributions
 
 I am happy to find the avaiable time to contribute the the open source projects that helps me to expand my knowledge and work with other developers and team globally.
 
-- 💥 [fluentPOS](https://github.com/fluentpos/fluentpos): Open Source Point Of Sales / Inventory Management Solution built with ASP.NET Core 5.0 WebAPI & Angular 12 Material
 - 🛒 [Blazor Hero](https://github.com/blazorhero/blazorhero): BlazorHero is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built with MudBlazor Components.
 
 - 🥇 and hope to contribute more in the future.
