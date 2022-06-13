@@ -28,6 +28,7 @@
 
 I am happy to find the avaiable time to contribute the the open source projects that helps me to expand my knowledge and work with other developers and team globally.
 
+- 🛒 [MiniStarter](https://github.com/chhinsras/ministarter): MiniStarter is simple solution template which is best for small medium size application. This is good for starter, built with simplification in mind. The project is built with Asp.Net Core Web API and Angular / Flutter for the front end.
 - 🛒 [Blazor Hero](https://github.com/blazorhero/blazorhero): BlazorHero is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built with MudBlazor Components.
 
 - 🥇 and hope to contribute more in the future.
