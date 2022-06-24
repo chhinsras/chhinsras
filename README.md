@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Chhin Sras 👋</h1>
+<h1 align="center">Hi there, I'm Chhin Sras 👋 | 🇰🇭</h1>
 
 <p align="center"> 
  <a href="https://github.com/chhinsras" alt="sras's github">
