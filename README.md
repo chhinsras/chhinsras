@@ -10,7 +10,7 @@
  <a href="https://www.facebook.com/chhinsras/" alt="sras's facebook">
    <img src="https://img.shields.io/badge/-chhinsras-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/chhinsras/" />
  </a>
- <a href="https://chhinsras.com" alt="mukesh's blog">
+ <a href="https://chhinsras.com" alt="sras's blog">
    <img src="https://img.shields.io/badge/chhinsras.com-brightgreen?style=flat-square" />
  </a>
   <a href="https://twitter.com/chhinsras95" alt="sras's twitter">
@@ -30,6 +30,8 @@ I am happy to find the avaiable time to contribute the the open source projects 
 
 - 🛒 [MiniStarter](https://github.com/chhinsras/ministarter): MiniStarter is simple solution template which is best for small medium size application. This is good for starter, built with simplification in mind. The project is built with Asp.Net Core Web API and Angular / Flutter for the front end.
 - 🛒 [Blazor Hero](https://github.com/blazorhero/blazorhero): BlazorHero is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built with MudBlazor Components.
+- 🛒 [FluentPOS](https://github.com/chhinsras/fluentpos): [Archived Project] Open Source Point Of Sales / Inventory Management Solution
+Built with ASP.NET Core 5.0 WebAPI & Angular 13 Material UI.
 
 - 🥇 and hope to contribute more in the future.
 
